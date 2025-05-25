@@ -1,13 +1,31 @@
-<h1 align="center">Hi 👋, I'm Suman Chakraborty</h1>
-<h3 align="center">3rd-Year B.Tech | MERN Stack Dev | DSA Enthusiast Tech Magazine Creator</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm Suman Chakraborty
+</h1>
+
+<h3 align="center">
+  3rd-Year B.Tech | MERN Stack Dev | DSA Enthusiast | Tech Magazine Creator
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;Techzoo+Creator+%7C+Open+Source+Contributor;Always+Learning+%F0%9F%93%9A+%7C+Let's+Connect!" alt="Typing animation" />
+</p>
 
 ---
 
-- 🔭 Currently building **Techzoo – A Monthly Tech Magazine Platform**
-- 💡 Exploring **LangChain**, **Machine Learning**, and **Data Science**
-- 👯 Open to collaborating on **Web Dev Hackathons & Projects**
-- 🧠 Solved **550+ DSA problems** on LeetCode
-- 💬 Ask me about **Java, Python, React, Node.js**
+<!-- 🎨 CUSTOM HEADER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suman599/suman599/main/banner-techzoo-purple.png" alt="Techzoo Banner" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 Currently building **Techzoo – A Monthly Tech Magazine Platform**  
+- 💡 Exploring **LangChain**, **Machine Learning**, and **Data Science**  
+- 👯 Open to collaborating on **Web Dev Hackathons & Projects**  
+- 🧠 Solved **550+ DSA problems** on LeetCode  
+- 💬 Ask me about **Java, Python, React, Node.js**  
 - 📫 Reach me: **chakrabortysuman599@gmail.com**
 
 ---
@@ -25,6 +43,22 @@
 
 ---
 
+
+
+### 🏆 Highlight Projects
+
+#### 🚢 Ferry Ticket Booking System (MERN)
+<p>
+  <img src="https://github.com/suman599/ferry-booking-app/assets/demo.gif" width="90%" alt="Ferry project demo"/>
+</p>
+
+#### 📰 Techzoo – Magazine Web App
+<p>
+  <img src="https://github.com/suman599/techzoo/assets/demo.gif" width="90%" alt="Techzoo demo"/>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -32,14 +66,6 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman599&layout=compact&theme=radical"/>
 </p>
-
----
-
-### 🏆 Highlight Projects
-
-- 🚢 [Ferry Ticket Booking System (MERN)](https://github.com/suman599/ferry-booking-app)
-- 📰 [Techzoo – Magazine Web App](https://github.com/suman599/techzoo)
-  
 
 ---
 
