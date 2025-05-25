@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Chakraborty</h1>
-<h3 align="center">3rd-Year B.Tech | MERN Stack Dev | DSA Enthusiast | GDSC PR Team | Tech Magazine Creator</h3>
+<h3 align="center">3rd-Year B.Tech | MERN Stack Dev | DSA Enthusiast Tech Magazine Creator</h3>
 
 ---
 
