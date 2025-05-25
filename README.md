@@ -9,10 +9,7 @@
 
 ---
 
-<!-- 🎨 CUSTOM HEADER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suman599/suman599/main/banner-techzoo-purple.png" alt="Techzoo Banner" />
-</p>
+
 
 ---
 
