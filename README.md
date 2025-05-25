@@ -6,9 +6,6 @@
   3rd-Year B.Tech | MERN Stack Dev | DSA Enthusiast | Tech Magazine Creator
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;Techzoo+Creator+%7C+Open+Source+Contributor;Always+Learning+%F0%9F%93%9A+%7C+Let's+Connect!" alt="Typing animation" />
-</p>
 
 ---
 
