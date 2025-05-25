@@ -4,12 +4,11 @@
 ---
 
 - 🔭 Currently building **Techzoo – A Monthly Tech Magazine Platform**
-- 💡 Exploring **LangChain**, **LLaMA 3**, and **Deep Learning**
+- 💡 Exploring **LangChain**, **Machine Learning**, and **Data Science**
 - 👯 Open to collaborating on **Web Dev Hackathons & Projects**
 - 🧠 Solved **550+ DSA problems** on LeetCode
-- 💬 Ask me about **Java, Python, React, Node.js, Prompt Engineering**
+- 💬 Ask me about **Java, Python, React, Node.js**
 - 📫 Reach me: **chakrabortysuman599@gmail.com**
-- ⚡ Fun fact: I believe in learning by building 💻🚀
 
 ---
 
